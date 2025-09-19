@@ -1,4 +1,4 @@
-##Trip Suggestion
+#Trip Suggestion
 
 A simple web project that suggests trips/destinations.
 ------
